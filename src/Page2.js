@@ -19,16 +19,16 @@ class Page2 extends Component {
         <div>
             <Navigation />
       <div>
-        <div className="container-fluid">
+        <div className="container-fluid pt-3">
         <div className="col-md-6">
         <Card>
-        <CardHeader tag="h3">Featured</CardHeader>
+        <CardHeader tag="h3">Wetter Halberstadt 5 Tage Vorschau</CardHeader>
         <CardBody>
-          <CardTitle>Special Title Treatment</CardTitle>
           <Weather />
         </CardBody>
-        <CardFooter className="text-muted">Footer</CardFooter>
+        <CardFooter className="text-muted"></CardFooter>
       </Card>
+      <p>Hallo Rainer</p>
         </div>
         </div>
       </div>

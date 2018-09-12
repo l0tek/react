@@ -6,10 +6,8 @@ class Home extends Component {
     return (
     <div>
       <Navigation />
-      <div>
-        <div className="container-fluid">
+        <div className="container-fluid pt-3">
           <h1>Home</h1>
-        </div>
       </div>      
     </div>
     );
